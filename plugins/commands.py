@@ -28,14 +28,14 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('✦ ɢʀᴏᴜᴘ ✦', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
+                InlineKeyboardButton('✦ ɢʀᴏᴜᴘ ✦', url=f'https://t.me/Sandvillage1')
             ],
             [
                 InlineKeyboardButton('✦ ʜᴇʟᴘ ✦', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ],[
-            InlineKeyboardButton('✦ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ✦', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('✦ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ✦', url='https://t.me/All_Mighty_Rename_bot')
             ],[
-            InlineKeyboardButton('✦ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ✦', callback_data="shortlink_info")
+            InlineKeyboardButton('✦ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ✦', url='https://t.me/Sand_Store_bot")
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('✦ Add Me To Your Group ✦', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('✦ Search ✦', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('✦ Group ✦', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
+            InlineKeyboardButton('✦ Group ✦', url=f'https://t.me/Sandvillage1')
             ],[
             InlineKeyboardButton('✦ Help ✦', callback_data='help'),
             InlineKeyboardButton('✦ Help+ ✦', callback_data='leech_url_help'),
@@ -65,12 +65,12 @@ async def start(client, message):
             InlineKeyboardButton('✦ Setting ✦', callback_data='openSettings'),
             InlineKeyboardButton('✦ About ✦', callback_data='about')
             ],[
-            InlineKeyboardButton('✦ Auto Rename Bot ✦', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('✦ Auto Rename Bot ✦', url='https://t.me/All_Mighty_Rename_bot')
             ],[
-            InlineKeyboardButton('✦ File Store Bot ✦', callback_data="shortlink_info")
+            InlineKeyboardButton('✦ File Store Bot ✦', url=f'https://t.me/Sand_Store_bot")
             ],[
                 InlineKeyboardButton(
-                    "🌀 Naruto Shippuden 🌀", url='https://youtube.com/@LazyDeveloperr'
+                    "🌀 Naruto Shippuden 🌀", url='https://t.me/Naruto_Public'
                 )
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -90,12 +90,12 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "✦ Updates Channel ✦", url=invite_link.invite_link
+                    "✦ Updates Channel ✦", url=https://t.me/NarutoPublicST
                 )
             ],
              [
                 InlineKeyboardButton(
-                    "✦ You Tube ✦", url='https://youtube.com/@LazyDeveloperr'
+                    "✦ You Tube ✦", url='https://youtube.com/@lyrics__1m'
                 )
             ]
         ]
@@ -119,7 +119,7 @@ async def start(client, message):
             InlineKeyboardButton('✦ Add Me To Your Group ✦', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('✦ Search ✦', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('✦ Group ✦', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
+            InlineKeyboardButton('✦ Group ✦', url=f'https://t.me/Sandvillage1')
             ],[
             InlineKeyboardButton('✦ Help ✦', callback_data='help'),
             InlineKeyboardButton('✦ Help+ ✦', callback_data='leech_url_help'),
@@ -128,13 +128,13 @@ async def start(client, message):
             InlineKeyboardButton('✦ About ✦', callback_data='about')
             ],
         [
-            InlineKeyboardButton('✦ Auto Rename Bot ✦', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('✦ Auto Rename Bot ✦', url='https://t.me/All_Mighty_Rename_bot')
         ],
         [
-            InlineKeyboardButton('✦ File Store Bot ✦', callback_data="shortlink_info")
+            InlineKeyboardButton('✦ File Store Bot ✦', url="https://t.me/Sand_Store_bot")
         ],[
                 InlineKeyboardButton(
-                    "🌀 Naruto Shippuden 🌀", url='https://youtube.com/@LazyDeveloperr'
+                    "🌀 Naruto Shippuden 🌀", url='https://t.me/Naruto_Public'
                 )
             ]
         ]
@@ -199,7 +199,7 @@ async def start(client, message):
                                 InlineKeyboardButton('▶ Gen Stream / Download Link', callback_data=f'generate_stream_link:{file_id}'),
                             ],
                             [
-                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/LazyDeveloperr')
+                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/NarutoPublicST')
                             ]
                         ]
                     )
