@@ -35,7 +35,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('✦ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ✦', url='https://t.me/All_Mighty_Rename_bot')
             ],[
-            InlineKeyboardButton('✦ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ✦', url=f'https://t.me/Sand_Store_bot")
+            InlineKeyboardButton('✦ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ✦',  callback_data="https://t.me/Sand_Store_bot")
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -67,7 +67,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('✦ Auto Rename Bot ✦', url='https://t.me/All_Mighty_Rename_bot')
             ],[
-            InlineKeyboardButton('✦ File Store Bot ✦', url='https://t.me/Sand_Store_bot")
+            InlineKeyboardButton('✦ File Store Bot ✦', callback_data="https://t.me/Sand_Store_bot")
             ],[
                 InlineKeyboardButton(
                     "🌀 Naruto Shippuden 🌀", url='https://t.me/Naruto_Public'
