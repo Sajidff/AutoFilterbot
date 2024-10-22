@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Wʜᴀᴛ's ᴜᴘ ᴄɪɴᴇᴍᴀ ʟᴏᴠᴇʀ ! {} I'ᴍ ʏᴏᴜʀ ʙᴇʟᴏᴠᴇᴅ <a href=https://t.me/{}>{}</a>.\n\nFᴀsᴛᴇɴ ʏᴏᴜʀ sᴇᴀᴛʙᴇʟᴛs! I'ᴍ ʜᴇʀᴇ ᴛᴏ ʙʀɪɴɢ ᴍᴏᴠɪᴇs ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ Hᴏʟʟʏᴡᴏᴏᴅ ᴄᴀʀ ᴄʜᴀsᴇ. Lᴇᴛ's ʀᴏʟʟ! 🚗💨
+    START_TXT = """Hᴇʟʟᴏ {} I'ᴍ Yᴏᴜʀ Bᴇʟᴏᴠᴇᴅ <a href=https://t.me/{}>{}</a>.\n\nFᴀsᴛᴇɴ ʏᴏᴜʀ sᴇᴀᴛʙᴇʟᴛs! I'ᴍ ʜᴇʀᴇ ᴛᴏ ʙʀɪɴɢ ᴍᴏᴠɪᴇs ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ Hᴏʟʟʏᴡᴏᴏᴅ ᴄᴀʀ ᴄʜᴀsᴇ. Lᴇᴛ's ʀᴏʟʟ! 🚗💨
 """
     LZTHMB_TEXT = """Hello {},
 Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
