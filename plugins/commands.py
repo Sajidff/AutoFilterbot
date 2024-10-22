@@ -90,7 +90,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "✦ Updates Channel ✦", url=https://t.me/NarutoPublicST
+                    "✦ Updates Channel ✦", url=invite_link.invite_link
                 )
             ],
              [
